@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on anything fun!
 - 🌲 Project right now:
   Allemansrätten. Pinned below.
-  a project to inspire people to go
+  A project to inspire people to go
   outside more and how to take care
   of nature!
 
