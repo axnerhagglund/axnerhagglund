@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning React & Node 
 - 👯 I’m looking to collaborate on anything fun!
 - 🌲 Project right now:
- - A project to train my skills further in
+  A project to train my skills further in
   * React
   * TailwindCss
 
