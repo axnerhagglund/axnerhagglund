@@ -5,9 +5,7 @@
 - 🌱 I’m currently learning React & Node 
 - 👯 I’m looking to collaborate on anything fun!
 - 🌲 Project right now:
-  A project to train my skills further in
-  * React
-  * TailwindCss
+  Project pinned below-- A project to enhance my skills with react and tailwind.
 
 - 💬 Ask me about anything!
 - 📫 How to reach me: axnerhagglund@gmail.com
