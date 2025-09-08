@@ -8,4 +8,5 @@
 - 📫 How to reach me: axnerhagglund@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Flyfisher
+- Portfolio: https://axner-portfolio.vercel.app/
 
