@@ -10,4 +10,5 @@
 - ⚡ Fun fact: Flyfisher
 - Portfolio: https://axner-portfolio.vercel.app/
 - For fun project right now!: https://allemansrattenv1.vercel.app/
+- Newly started project: QuizMaker
 
