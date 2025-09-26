@@ -7,7 +7,8 @@ Frontend dev student currently looking for internship in january 2026
 |-----------|---------------------|
 | HTML5     | React.js            |
 | CSS3      | Tailwind CSS        |
-| JavaScript (ES6+) | Typescript |
+| JavaScript (ES6+) | - |
+| Typescript         | -  |
 
 
 ## 🛠 Backend
@@ -16,6 +17,9 @@ Frontend dev student currently looking for internship in january 2026
 | JavaScript (Node.js) | Express.js |
 | -         | REST API Development |
 | -         | Mongoose & MongoDB   |
+| -         | serverless & AWS   |
+
+
 
   
 - 📫 How to reach me: axnerhagglund@gmail.com
