@@ -3,19 +3,20 @@ Frontend dev student currently looking for internship in january 2026
 - # ⚡ Current Tech Stack
 
 ## 🌐 Frontend
-- HTML5, CSS3, JavaScript (ES6+)
-- TypeScript
-- React.js
-- Tailwind CSS
-- UX/UI Design
+| Languages | Frameworks / Tools |
+|-----------|---------------------|
+| HTML5     | React.js            |
+| CSS3      | Tailwind CSS        |
+| JavaScript (ES6+) | Typescript |
+
 
 ## 🛠 Backend
-- Node.js
-- Express.js
-- serverless
-- AWS
-- REST API Development
-- Mongoose & MongoDB
+| Languages | Frameworks / Tools |
+|-----------|---------------------|
+| JavaScript (Node.js) | Express.js |
+| -         | REST API Development |
+| -         | Mongoose & MongoDB   |
+
   
 - 📫 How to reach me: axnerhagglund@gmail.com
 - 😄 Pronouns: He/Him
