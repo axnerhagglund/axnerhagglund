@@ -1,9 +1,5 @@
-## Hello World 👋
-
-
-- 🔭 I’m currently at Folkuniversitetet learning frontend stuff
-- 👯 I’m looking to collaborate on anything fun
-  
+## Hello!
+Frontend dev student currently looking for internship in january 2026
 - # ⚡ Current Tech Stack
 
 ## 🌐 Frontend
