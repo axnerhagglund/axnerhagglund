@@ -7,7 +7,7 @@ Frontend dev student currently looking for internship in january 2026
 |-----------|---------------------|
 | HTML5     | React.js            |
 | CSS3      | Tailwind CSS        |
-| JavaScript (ES6+) | - |
+| JavaScript (ES6+) | Next.js |
 | Typescript         | -  |
 
 
@@ -19,13 +19,10 @@ Frontend dev student currently looking for internship in january 2026
 | -         | Mongoose & MongoDB   |
 | -         | serverless & AWS   |
 
-
-
   
 - 📫 How to reach me: axnerhagglund@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Flyfisher
 - Portfolio: https://axner-portfolio.vercel.app/
 
-- Newly started project: QuizMaker
-
+- Newly started project: Transparens
