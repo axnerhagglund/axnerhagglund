@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Axner Hägglund
 
-💻 **Frontend student** passionate about building modern, user-focused web applications.  
-I love creating intuitive interfaces, exploring new technologies, and building products that make a real difference.
+💻 **Frontend student** After several years in the retail market, I stumbled upon frontend
+development, and the rest is history.. Also, I'm trying to build fun, interactive web apps that all can use.
 
 ---
 
