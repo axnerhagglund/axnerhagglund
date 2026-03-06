@@ -30,13 +30,13 @@ development, and the rest is history.. Also, I'm trying to build fun, interactiv
 
 ## 📦 Current Project
 
-### 🔍 Transparens  
-A **full-stack project** built with **Next.js** and **TypeScript**.  
-Transparens focuses on creating an open, transparent platform to explore real-world data and present it with a clean, user-friendly interface.
+### 🔍 SEO DESIGN 
+Right now im on an intership with a web development agency in Gothenburg Sweden. Where i'm pretty much doing everything a webdev can do! It's really exciting to be out in the real world and develop sharp projects.
 
 ---
 
 ## 📫 Connect with Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/axnerh%C3%A4gglund/)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/axnerh%C3%A4gglund/)
+- Dribble Design portfolio - https://dribbble.com/axnerhagglund  
 - 🌐 [Portfolio Website](https://axner-portfolio.vercel.app/)
